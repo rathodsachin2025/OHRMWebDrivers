@@ -1,0 +1,19 @@
+url=https://opensource-demo.orangehrmlive.com/index.php/auth/login
+uid=txtUsername
+pname=txtPassword
+loginbtn=/html/body/div[1]/div/div[3]/div[2]/div[2]/form/div[5]/input
+logo=//*[@id="branding"]/a[1]/img
+
+Alinktxt=Admin
+usrnmid=searchSystemUser_userName
+rollxpath=/html/body/div[1]/div[3]/div[1]/div[2]/form/fieldset/ol/li[2]/select
+enamexpath=//*[@id="searchSystemUser_employeeName_empName"]
+statusxpath=//*[@id="searchSystemUser_status"]
+searchbtnid=searchBtn
+
+
+Mylinktxt=My Info
+editxpth=//*[@id="btnSave"]
+DLnumid=personal_txtLicenNo
+DLexpirexpath=//*[@id="personal_txtLicExpDate"]
+savexpath=//*[@id="btnSave"]
